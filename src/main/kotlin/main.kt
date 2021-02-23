@@ -2,6 +2,8 @@ import kotlinx.coroutines.*
 import kotlinx.coroutines.sync.Mutex
 import kotlinx.coroutines.sync.withLock
 
+// ojo con las corrutinas, tenemos que tocar el gradle... es una mofa asike por sea caso tenlo presente
+
 //todo esto es los materiales que necesito para poder irme en la barca, se irán sumando
 //hasta llegar al tope, los topes están abajo.
 var cubosActuales = 0
